@@ -41,3 +41,6 @@ To create an interactive and comprehensive sales dashboard in Excel that visuali
 - We've hit the milestone of 1000 total orders, showcasing strong demand.
 - Our total revenue stands at an impressive $45,000.
 - The United Kingdom is our leading market, contributing $36,000 to our total revenue.
+
+### Snap Shot
+![jhoi](https://github.com/Chiemezuo89/Metro-Coffee-Sales-Dashboard-Analysis/assets/172860025/c4333db4-2363-4914-837b-a684589ab9b3)
