@@ -42,3 +42,5 @@ To create an interactive and comprehensive sales dashboard in Excel that visuali
 - Our total revenue stands at an impressive $45,000.
 - The United Kingdom is our leading market, contributing $36,000 to our total revenue.
 
+### Snapshot of the sales dashboard
+![Untitled-1re](https://github.com/Chiemezuo89/Metro-Coffee-Sales-Dashboard-Analysis/assets/172860025/6aaaa542-3730-43b9-a717-8dcea0bb4b2e)
